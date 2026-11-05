@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-search-dart-desktop",
+  "capabilityKey": "liberusoftware/module-cms-search",
+  "presentation": "dart-desktop",
+  "package": "module_cms_search_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/cms/nextjs/cms-search.md",
+  "presentationPlan": "projects/cms/features/cms-search.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
